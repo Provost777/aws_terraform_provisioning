@@ -1,1 +1,10 @@
-## AWS Provisioning using Terraform 
+# AWS Provisioning using Terraform 
+
+## AWS Resources
+*VPC
+*SUBNETS
+*SECURITY GROUP
+*INTERNET GATEWAY
+*ROUTE TABLE
+*EC2 INSTANCE
+
